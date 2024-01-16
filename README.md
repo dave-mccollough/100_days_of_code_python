@@ -1,4 +1,6 @@
-# 100 Days of Code Python edition
+# 100 Days of Code
+
+Python edition
 
 ## Course Information
 
